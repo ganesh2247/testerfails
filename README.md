@@ -1,0 +1,2 @@
+# testerfails
+show permissions
